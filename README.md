@@ -26,12 +26,35 @@ Modern farming faces the challenge of increasing crop yields while also taking c
 ![Screenshot 8](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013032.jpg)
 ![Screenshot 9](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013041.jpg)
 ![Screenshot 10](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013049.jpg)
+![Screenshot 11](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013057.jpg)
+![Screenshot 12](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013107.jpg)
+![Screenshot 13](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013114.jpg)
+![Screenshot 14](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013207.jpg)
+![Screenshot 15](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013212.jpg)
+![Screenshot 16](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013220.jpg)
+![Screenshot 17](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013229.jpg)
+![Screenshot 18](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013237.jpg)
+![Screenshot 19](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013247.jpg)
+![Screenshot 20](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013253.jpg)
+![Screenshot 21](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013304.jpg)
+![Screenshot 22](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013309.jpg)
+![Screenshot 23](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013314.jpg)
+![Screenshot 24](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013318.jpg)
+![Screenshot 25](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013325.jpg)
+![Screenshot 26](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013331.jpg)
+![Screenshot 27](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013443.jpg)
+![Screenshot 28](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013452.jpg)
+![Screenshot 29](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013457.jpg)
+![Screenshot 30](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013505.jpg)
+![Screenshot 31](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013509.jpg)
+![Screenshot 32](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013521.jpg)
+![Screenshot 33](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-013532.jpg)
+![Screenshot 34](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-123900.jpg)
+![Screenshot 35](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-123915.jpg)
+![Screenshot 36](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-124011.jpg)
+![Screenshot 37](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-124016.jpg)
+![Screenshot 38](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-124030.jpg)
 
-## Getting Started
+## END 
 
-This project is a starting point for Flutter application development. If this is your first Flutter project, you can get started with these resources:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For comprehensive Flutter development documentation and guidance, you can visit the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, and a full API reference.
