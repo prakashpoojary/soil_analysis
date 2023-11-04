@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879990144728",
+    "firebase_url": "https://in1soilsensor-default-rtdb.firebaseio.com",
+    "project_id": "in1soilsensor",
+    "storage_bucket": "in1soilsensor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879990144728:android:b3c807a843989e280221ad",
+        "android_client_info": {
+          "package_name": "com.example.soilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879990144728-5oj7oqnmr9jugrc6lqtqnuvbdbbghroj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0g598N0h_VBrf48FYhpdig5rYM_TxjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879990144728-5oj7oqnmr9jugrc6lqtqnuvbdbbghroj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

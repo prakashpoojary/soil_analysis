@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>879990144728-rmshcv74o5r3ug8o8fiatrledjls96t5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.879990144728-rmshcv74o5r3ug8o8fiatrledjls96t5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbqwEnOL7bq3eIF0jHyt3-tdU09_a7fdY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>879990144728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.soilapp</string>
+	<key>PROJECT_ID</key>
+	<string>in1soilsensor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>in1soilsensor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:879990144728:ios:2c0f4685d6ebfc940221ad</string>
+	<key>DATABASE_URL</key>
+	<string>https://in1soilsensor-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
