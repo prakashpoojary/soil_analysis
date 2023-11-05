@@ -55,6 +55,6 @@ Modern farming faces the challenge of increasing crop yields while also taking c
 ![Screenshot 37](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-124016.jpg)
 ![Screenshot 38](https://raw.githubusercontent.com/prakashpoojary/soilanalysis/main/images/Screenshot_20231005-124030.jpg)
 
-## END 
+## END
 
 
