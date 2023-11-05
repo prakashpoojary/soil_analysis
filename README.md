@@ -16,7 +16,7 @@ Modern farming faces the challenge of increasing crop yields while also taking c
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/images/Screenshot_20231005-012539.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/main/images/Screenshot_20231005-012539.jpg)
 
 
 
